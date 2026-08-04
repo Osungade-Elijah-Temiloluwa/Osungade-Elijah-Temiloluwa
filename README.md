@@ -1,72 +1,109 @@
 # Hi, I'm Osungade Elijah Temiloluwa 👋🧬
 
-> *Anatomy graduate turned computational biologist — exploring the molecular code.*
+> *Anatomy graduate building a computational toolkit to decode molecular signaling — one commit at a time.*
 
 ---
 
 ## Who I Am
 
-I'm a biomedical scientist from Nigeria with a B.Sc in Anatomy from Babcock University, transitioning into computational biology and molecular genetics. My undergraduate thesis on the neuroprotective effects of the methanolic extract of *Bryophyllum pinnatum* on *E. coli* inoculated rat models gave me my first serious encounter my first deep encounter with complex biological systems. It sparked a realization: to truly understand health and disease, I want to look at the foundational level—the genome. 
+I'm a biomedical scientist from Nigeria with a B.Sc in Anatomy from Babcock University (CGPA: 4.33/5.0). My undergraduate thesis on the effects of *Bryophyllum pinnatum* on neurotrophic and inflammatory gene expression in the hippocampus of *E. coli*-inoculated Wistar rats gave me my first deep encounter with complex biological systems — from RT-qPCR and histology to molecular docking and protein-protein interaction mapping.
 
-I have a deep reverence for the power of Molecular Genetics. Right now, I am dedicated to building a rigorous computational and data-driven toolkit so that when I discover the specific medical challenges I am meant to solve, I will have the exact tools needed to attack them. I am documenting my learning journey completely in public.
+It sparked a realization: to truly understand health and disease, I need to work at the foundational molecular level — the genome, the proteome, and the signaling networks that govern cellular behavior.
+
+I'm now transitioning into computational biology and molecular genetics, with a focus on understanding how cells communicate, make decisions, and go wrong in disease. I document my learning journey publicly — every script, every mistake, every breakthrough.
+
+---
+
+## Research Interests
+
+My scientific curiosity centers on **molecular communication** — how cells sense, interpret, and respond to signals at the molecular level:
+
+- 🔬 **Cell Signaling & Intracellular Cascade Networks** — How signals propagate from membrane to nucleus
+- ⚡ **Ion Channels & Membrane Receptors** — The gatekeepers of cellular communication
+- 🔄 **Molecular Switches** — Binary decision-making at the protein level
+- 🧬 **Signal-Driven Transcription** — How extracellular cues reprogram gene expression
+- 🧪 **Structural Biology of Membrane Proteins** — How 3D architecture determines channel gating and drug targeting
+
+I'm particularly inspired by the work of researchers like **Dr. Xi Huang** (SickKids/University of Toronto), who investigates how ion channels regulate brain cancer through mechano-electrical-chemical signaling, and **Dr. Huaizong Shen** (SMART, Shenzhen), who uses cryo-EM and AI to resolve ion channel structures for drug design.
 
 ---
 
 ## My Trajectory
 
 ```
-B.Sc Anatomy — Babcock University, Nigeria
+B.Sc Anatomy — Babcock University, Nigeria (Completed, 2026)
         ↓
-Self-directed Bioinformatics & Computational Biology (current)
+Self-Directed Computational Biology & Bioinformatics (Current)
         ↓
-MSc Molecular Genetics — University of Toronto, Canada (planned)
+MSc Molecular Genetics — University of Toronto, Canada (Planned, Fall 2027)
 ```
 
 ---
 
-## What I'm Currently Learning
+## What I'm Currently Building
 
-I am currently navigating a structured, 6-phase computational biology trajectory, advancing from core computational foundations to advanced multi-omics processing workflows.
+I'm working through a structured program of textbooks, online courses, and hands-on projects to build fluency in:
 
-### 🟢 Phase 1: Core Foundations & Vocabulary (Months 1–3)
-*   **Linux & Command Line Environment:** Mastering the filesystem hierarchy (`/`, `/home`), user management, text processing (`grep`, `awk`, `sed`), environment path variables (`.bashrc`), and secure shell remote server access (`SSH`, `SCP`).
-*   **Python for Bioinformatics:** Building core data processing scripts, handling multi-format File I/O (FASTA, FASTQ, CSV), and manipulating biological datasets using arrays and DataFrames via **NumPy** and **Pandas**.
-*   **Biological Databases & Formats:** Working with global repositories (**NCBI ecosystem**, Ensembl, UniProt, and PDB), while solidifying file-format intuition for raw sequencing data, alignment mapping, and genomic intervals (FASTA, FASTQ, SAM/BAM, GFF3/GTF, BED).
-
-### 🟡 Phase 2: Sequence Analysis Fundamentals (Months 4–6)
-*   **Alignment Algorithms:** Exploring local and global pairwise sequence alignments (Needleman-Wunsch and Smith-Waterman scoring matrices like BLOSUM and PAM).
-*   **Practical Workspace Tools:** Utilizing the **BLAST+ suite** locally via command line (`blastn`, `blastp`, `blastx`) and practicing Multiple Sequence Alignment (MSA) using industry standards like **MAFFT** and MUSCLE.
-*   **Phylogenetics & Evolutionary Models:** Investigating distance-based and statistically principled tree-building approaches (Neighbor-Joining, Maximum Likelihood) and tree visualization tools.
-
-### 🔵 Phase 3 & 4: Scalable Pipelines & Machine Learning Foundations (Targeted)
-*   **Next-Gen Sequencing (NGS) Concept Prep:** Developing the mathematical and pipeline syntax foundations for automated workflow management systems (**Snakemake** / **Nextflow**) to prepare for scalable transcriptomic data processing.
-*   **Data Science & Pattern Recognition:** Leveraging **Scikit-learn** in Python to explore foundational machine learning classifiers, dimensionality reduction techniques (PCA), and structural data modeling.
+- **Python & Biopython** — Scripting for biological data analysis and genomic file processing
+- **Linux & Bash** — Command-line workflows for bioinformatics pipelines
+- **Sequence Analysis** — BLAST, multiple sequence alignment, phylogenetics
+- **Statistics for Biology** — Hypothesis testing, experimental design, and data interpretation
+- **Core Molecular Biology** — Deepening my knowledge of genetics, biochemistry, and cell signaling
 
 ---
 
 ## Repository Map
 
-| # | Repository | What It Contains |
-|---|---|---|
-| 00 | [python-foundations](https://github.com/loluelijah2004/00-python-foundations.git) | Core Python — syntax, data structures, file I/O |
-| 01 | [biological-data-python](../01-biological-data-python) | Biopython, genomic file formats, NCBI data retrieval |
-| 02 | [data-analysis-pipelines](../02-data-analysis-pipelines) | Building reproducible data and pipeline workflows |
-| 03 | [r-for-genomics](../03-r-for-genomics) | R, tidyverse, ggplot2, basic data visualization |
-| 04 | [ml-explorations](../04-ml-explorations) | Exploring foundational machine learning models for biological data |
+Each repository documents a stage of my computational learning, with real code and analysis written from scratch.
+
+| # | Repository | Description | Status |
+|---|---|---|---|
+| 00 | [python-foundations](https://github.com/loluelijah2004/00-python-foundations) | CS50P (Harvard) coursework, biology scripts, Rosalind challenges, data analysis | 🟡 In Progress |
+| 01 | [biopython-genomics](https://github.com/loluelijah2004/01-biopython-genomics) | Biopython, FASTA/FASTQ parsing, NCBI data retrieval, BLAST automation | 📋 Planned |
+| 02 | [sequence-to-structure](https://github.com/loluelijah2004/02-sequence-to-structure) | Bioinformatic Methods I & II (U of T): sequences → proteins → networks. Lab notebooks + projects | 📋 Planned |
+| 03 | [linux-for-life-sciences](https://github.com/loluelijah2004/03-linux-for-life-sciences) | Bash scripting, text processing, genomic data pipelines, Wellcome course | 📋 Planned |
+| 04 | [alignment-and-evolution](https://github.com/loluelijah2004/04-alignment-and-evolution) | MSA, phylogenetics, UCSD Bioinformatics courses, evolutionary analysis | 📋 Planned |
+| 05 | [genomic-data-analysis](https://github.com/loluelijah2004/05-genomic-data-analysis) | Statistical analysis, gene expression, variant analysis, JHU course | 📋 Planned |
+| 06 | [capstone-bioinformatics](https://github.com/loluelijah2004/06-capstone-bioinformatics) | End-to-end bioinformatics research workflow — from raw data to biological insight | 📋 Planned |
+
+> *Repositories are updated as I complete each phase. The commit history reflects real learning — not polished final products.*
 
 ---
 
-## My Focus: The Journey of Discovery
+## Courses I'm Taking
 
-Instead of rushing to claim a niche, my current focus is open-ended exploration within molecular genetics. I am fascinated by how genomic data can be decoded to understand biological mechanisms. My goal is to build an elite, versatile skill set in bioinformatics that allows me to quickly adapt to, analyze, and innovate within any genetic research environment.
+| Course | Institution | Platform |
+|---|---|---|
+| CS50P: Introduction to Programming with Python | Harvard University | edX |
+| Bioinformatic Methods I & II | University of Toronto | Coursera |
+| Python for Genomic Data Science | Johns Hopkins University | Coursera |
+| Data Analysis with Python | freeCodeCamp | freeCodeCamp |
+| Finding Hidden Messages in DNA | UC San Diego | Coursera |
+| Comparing Genes, Proteins & Genomes | UC San Diego | Coursera |
+| Improving Your Statistical Inferences | Eindhoven University | Coursera |
+| Bioinformatics for Biologists: Linux, Bash & R | Wellcome Connecting Science | FutureLearn |
+
+---
+
+## My Approach
+
+I believe in learning by doing. Reading about code is not the same as writing code. My process:
+
+```
+Read concept → Write code → Fail → Debug → Understand → Repeat 🔄
+```
+
+Every repository contains real scripts I wrote, real errors I encountered, and real solutions I found. I'm not here to look polished — I'm here to learn deeply and document honestly.
 
 ---
 
 ## Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/elijah-osungade-25b12a2a2)
-- 📧 loluelijah2004@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/osungade-elijah-temiloluwa-25b12a2a2)
+- 📧 elijah.osungade@gmail.com
 - 🌍 Lagos, Nigeria
 
 ---
-*This profile is updated monthly. Last updated: June 2026.*
+
+*This profile is a living document, updated monthly as I progress.*
+*Last updated: July 2026*
