@@ -48,7 +48,7 @@ I am currently navigating a structured, 6-phase computational biology trajectory
 
 | # | Repository | What It Contains |
 |---|---|---|
-| 00 | [python-foundations](../00-python-foundations) | Core Python — syntax, data structures, file I/O |
+| 00 | [python-foundations](https://github.com/loluelijah2004/00-python-foundations.git) | Core Python — syntax, data structures, file I/O |
 | 01 | [biological-data-python](../01-biological-data-python) | Biopython, genomic file formats, NCBI data retrieval |
 | 02 | [data-analysis-pipelines](../02-data-analysis-pipelines) | Building reproducible data and pipeline workflows |
 | 03 | [r-for-genomics](../03-r-for-genomics) | R, tidyverse, ggplot2, basic data visualization |
