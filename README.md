@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Osungade Elijah Temiloluwa - Molecular Genetics, Bioinformatics, and Cell Signaling" width="100%" />
+  <img src="[assets/profile-banner.svg](https://github.com/Osungade-Elijah-Temiloluwa/Osungade-Elijah-Temiloluwa/blob/aa9dc6f999546d607bdc2a876537deda67802ed1/profile-banner.svg)" alt="Osungade Elijah Temiloluwa - Molecular Genetics, Bioinformatics, and Cell Signaling" width="100%" />
 </p>
 
 <p align="center">
