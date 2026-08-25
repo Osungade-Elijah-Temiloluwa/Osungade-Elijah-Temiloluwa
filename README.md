@@ -45,7 +45,7 @@ I am now documenting my progression from guided programming exercises to reprodu
 **Status:** In progress  
 **Evidence:** CS50P Week 0 completed; subsequent coursework and biological applications are documented chronologically.
 
-[View `00-python-foundations`](https://github.com/loluelijah2004/00-python-foundations)
+[View `00-python-foundations`](https://github.com/Osungade-Elijah-Temiloluwa/00-python-foundations)
 
 ### Undergraduate Thesis
 
@@ -59,7 +59,7 @@ A cross-project collection of curated Jupyter notebooks structured as compact co
 
 > Biological question → hypothesis → data provenance → method → result → interpretation → limitations → next steps
 
-[View `research-notebooks`](https://github.com/loluelijah2004/research-notebooks)
+[View `research-notebooks`](https://github.com/Osungade-Elijah-Temiloluwa/research-notebooks)
 
 ## Repository Journey
 
