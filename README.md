@@ -67,8 +67,8 @@ A cross-project collection of curated Jupyter notebooks structured as compact co
 
 | Repository | Evidence Inside | Status |
 |---|---|---|
-| [`00-python-foundations`](https://github.com/loluelijah2004/00-python-foundations) | CS50P work, biology scripts, Rosalind solutions, and data-analysis practice | In progress |
-| [`research-notebooks`](https://github.com/Osungade-Elijah-Temiloluwa/research-notebooks.git) | Curated computational investigations with reproducible methods and interpretation | In progress |
+| [`00-python-foundations`](https://github.com/Osungade-Elijah-Temiloluwa/00-python-foundations) | CS50P work, biology scripts, Rosalind solutions, and data-analysis practice | In progress |
+| [`research-notebooks`](https://github.com/Osungade-Elijah-Temiloluwa/research-notebooks) | Curated computational investigations with reproducible methods and interpretation | In progress |
 
 <details>
 <summary><strong>Planned repository roadmap</strong></summary>
