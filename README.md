@@ -137,7 +137,6 @@ The goal is not to appear finished. It is to make progress visible, reproducible
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/osungade-elijah-temiloluwa-25b12a2a2)
-- [GitHub](https://github.com/loluelijah2004)
 - Email: [elijah.osungade@gmail.com](mailto:elijah.osungade@gmail.com)
 - Lagos, Nigeria
 
