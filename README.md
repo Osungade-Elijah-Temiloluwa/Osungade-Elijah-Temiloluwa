@@ -70,21 +70,6 @@ Each repository documents a stage of my computational learning, with real code a
 
 ---
 
-## Courses I'm Taking
-
-| Course | Institution | Platform |
-|---|---|---|
-| CS50P: Introduction to Programming with Python | Harvard University | edX |
-| Bioinformatic Methods I & II | University of Toronto | Coursera |
-| Python for Genomic Data Science | Johns Hopkins University | Coursera |
-| Data Analysis with Python | freeCodeCamp | freeCodeCamp |
-| Finding Hidden Messages in DNA | UC San Diego | Coursera |
-| Comparing Genes, Proteins & Genomes | UC San Diego | Coursera |
-| Improving Your Statistical Inferences | Eindhoven University | Coursera |
-| Bioinformatics for Biologists: Linux, Bash & R | Wellcome Connecting Science | FutureLearn |
-
----
-
 ## My Approach
 
 I believe in learning by doing. Reading about code is not the same as writing code. My process:
