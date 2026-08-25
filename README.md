@@ -99,7 +99,7 @@ Every repository contains real scripts I wrote, real errors I encountered, and r
 
 ## Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/osungade-elijah-temiloluwa-25b12a2a2)
+- 💼 [LinkedIn](www.linkedin.com/in/elijah-osungade-25b12a2a2)
 - 📧 elijah.osungade@gmail.com
 - 🌍 Lagos, Nigeria
 
